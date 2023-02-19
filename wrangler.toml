@@ -1,4 +1,4 @@
-name = "remix-cloudflare-workers"
+name = "remix-auth-jwt"
 
 workers_dev = true
 main = "./build/index.js"
@@ -10,3 +10,6 @@ compatibility_date = "2022-04-05"
 
 [build]
   command = "npm run build"
+
+[vars]
+  SESSION_SECRET = "s3cr3t"
