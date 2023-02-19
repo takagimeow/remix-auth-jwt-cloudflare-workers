@@ -15,6 +15,7 @@
 				"donjayamanne.githistory",
 				"eamodio.gitlens",
 				"mhutchie.git-graph",
+				"esbenp.prettier-vscode",
 				"bungcip.better-toml"
 			]
 		}
